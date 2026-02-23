@@ -1,1 +1,5 @@
-test
+for loop : normally looping for a specific amount of times
+range() function 
+  (5, -1, -1) --> from 5 to -1 with a -1 interval
+import module
+  random.randint(1, 20)
